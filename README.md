@@ -1,3 +1,6 @@
+# Alpine Dairy FE
+FE application made using React. Has no connection to a dedicated data handling server.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
